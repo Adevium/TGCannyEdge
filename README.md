@@ -1,4 +1,4 @@
-# CannyEdgeDetector
+# TGCannyEdge
 CannyEdgeDetector for java by Tom Gibara
 
 As his website is down, we need an alternative to obtain his original code.
